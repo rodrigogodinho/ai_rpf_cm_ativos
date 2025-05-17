@@ -1,5 +1,5 @@
 # ai_rpf_cm_ativos
-Projeto da Imersão IA Alura + Google Gemini - Um agente que automatiza tarefas no cálculo de custo médio de ativos
+Projeto da Imersão IA Alura + Google Gemini - Um agente que automatiza tarefas no cálculo de custo médio de ativos, facilitando a declaração de IRPF
 
 # Calculadora de Custo Médio de Ativos para IRPF
 
