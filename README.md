@@ -22,7 +22,7 @@ Este projeto é uma ferramenta auxiliar desenvolvida para simplificar o cálculo
 
 1.  **Pré-requisitos:**
     * Uma conta Google para acessar ao Google Colab.
-    * Importar o projeto (Projeto_Imersão_IA_Alura_+_Google_Gemini.ipynb) para o Colab.
+    * Importar o projeto ([Projeto_Imersão_IA_Alura_+_Google_Gemini.ipynb](Projeto_Imersão_IA_Alura_+_Google_Gemini.ipynb)) para o Colab.
     * Você precisará obter uma API Key do Google Gemini e configurá-la como variável de ambiente (`GOOGLE_API_KEY`).
   
 2.  **Como usar:**
